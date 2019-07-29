@@ -1,7 +1,7 @@
 {
   "title": "App Update!",
-  "message": "This is new Feature Update",
-  "download": "https://github.com/Spider107/azl2d3dapkupdate/raw/master/app-debug.apk",
+  "message": "ယခု version ကိုေဒါင္းလုဒ္ဆြဲပါ",
+  "download": "https://github.com/Spider107/azl2d3d/raw/master/2d3dmayanmar%20version%202.1.apk",
   "playstore": "com.azm.a2d3daz",
   "uninstall":false,
   "what": {
@@ -9,7 +9,7 @@
     "version": [],
     "all": true
   },
-  "versionName": "1.0",
-  "versionCode": "1",
+  "versionName": "2.1",
+  "versionCode": "5",
   "force": true
 }
